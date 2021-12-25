@@ -10,14 +10,14 @@ func Start(bot *gotgbot.Bot, ctx *ext.Context) error {
 *🇮🇳 Hello, I am a channel spam
 detector bot 🇮🇳*.
 I can ban the channels which
-🔱spams your chat🔱!
+spams your chat!
 
-*❤️(c) @clanlord7 🇮🇳*
+*❤️(c) @nsnnsnsjjsj 🇮🇳*
 	`
 	if ctx.EffectiveChat.Type != "private" {
 		ctx.EffectiveMessage.Reply(
 			bot,
-			"★🇮🇳 𝐉𝐀𝐈 𝐒𝐇𝐑𝐄𝐄 𝐑𝐀𝐌 ❤️★★💛 [𝙱𝙾𝚃 𝙸𝚂 𝙰𝙻𝙸𝚅𝙴] 💛★",
+			"★[𝙱𝙾𝚃 𝙸𝚂 𝙰𝙻𝙸𝚅𝙴]★",
 		        &gotgbot.SendMessageOpts{ParseMode: "markdown"},
 		)
 	} else {
