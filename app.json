@@ -6,9 +6,9 @@
         "telegram-bot",
         "golang"
     ],
-  "repository": "https://youtu.be/XqLQ4oKh-0w",
-  "website": "https://www.dankindian.com/",
-  "success_url": "https://youtu.be/n_M9P44r9ag",
+  "repository": "",
+  "website": "",
+  "success_url": "",
   "env": {
     "TOKEN": {
       "description": "Bot Token, Get It From! @BotFather.",
