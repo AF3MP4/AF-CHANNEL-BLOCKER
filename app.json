@@ -1,6 +1,6 @@
 {
-  "name": "Channel Bot",
-  "description": "Telegram bot to ban channel spammers made with @clanlord7",
+  "name": "My Bot",
+  "description": "Telegram bot to ban channel spammers made with @asix_bad",
   "keywords": [
         "telegram",
         "telegram-bot",
@@ -11,7 +11,7 @@
   "success_url": "https://youtu.be/n_M9P44r9ag",
   "env": {
     "TOKEN": {
-      "description": "Bot Token, Get It From @BotFather.",
+      "description": "Bot Token, Get It From! @BotFather.",
       "value": ""
     }
   },
